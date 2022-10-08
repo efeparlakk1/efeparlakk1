@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **efeparlakk2@gmail.com**
 
-- ⚡ Fun fact **Also I have a music channel on YouTube -> Efe Parlak**
+- ⚡ Fun fact **Also I have a music channel on YouTube -> https://www.youtube.com/user/TheEfosters **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
