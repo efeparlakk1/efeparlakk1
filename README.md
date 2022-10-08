@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@efeparlakk1](https://medium.com/@efeparlakk1)
 
-- 📫 How to reach me **efeparlakk2@gmail.com**
+- 📫 How to reach me **efe.parlak@outlook.com.tr**
 
 - ⚡ Fun fact **Also I have a music channel on YouTube -> https://www.youtube.com/user/TheEfosters **
 
