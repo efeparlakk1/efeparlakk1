@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Parlak</h1>
 <h3 align="center">Data Science - Machine Learning</h3>
 
-- My last project with @nurullaheroglu is below. [House Rent Prediction in Istanbul](https://github.com/efeparlakk1/ev_kira_tahmini)
+- My last project is below. [House Rent Prediction in Istanbul](https://github.com/efeparlakk1/ev_kira_tahmini)
 
 - 📝 I regularly write articles on [https://medium.com/@efeparlakk1](https://medium.com/@efeparlakk1)
 
